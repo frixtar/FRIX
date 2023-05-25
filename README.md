@@ -1,2 +1,0 @@
-# FRIX
-Trabajos de escuela
